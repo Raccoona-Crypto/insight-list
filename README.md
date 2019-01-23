@@ -1,6 +1,6 @@
 <center>
-  <h1>Insigth List</h1>
-  <p>Based on React Native</p>
+  <h3>Insigth List</h3>
+  <p>List of some cryptocurrency Insigth repository and WEB resources</p>
 </center>
 
     
