@@ -24,3 +24,9 @@ Github repository: [litecoin-project/insight-lite-api](https://github.com/liteco
  
  #### Testnet
  * [test.ltc.explorer.berrywallet.io](https://test.ltc.explorer.berrywallet.io)
+
+
+## Bitcoin Cash
+
+#### Mainnet
+* [bch-insight.bitpay.com](https://bch-insight.bitpay.com)
