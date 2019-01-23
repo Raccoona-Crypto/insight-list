@@ -2,8 +2,6 @@
   <h1 align="center">List of Insight resources</h3>
   <p align="center">List Insigth repository and WEB resources for Bitcon, Litecoin, Dash, etc.</p>
 </p>
-
-----
     
 ## Bitcoin
 Github repository: [bitpay/insight](https://github.com/bitpay/insight)
